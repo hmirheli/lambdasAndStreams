@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6cec193-51eb-4ad1-b0fd-322df31647ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cautionWhenMakingStreamsParallel/PrimeCounting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/preferCollectionToStreamAsReturnType/AdapterIterableToSream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/preferCollectionToStreamAsReturnType/AdapterStreamToIterable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/preferCollectionToStreamAsReturnType/PowerSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/preferCollectionToStreamAsReturnType/StreamsIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/preferCollectionToStreamAsReturnType/SubLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/preferCollectionToStreamAsReturnType/SubListsAnotherImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/preferLambdasToAnonymousClasses/CompareTwoStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/preferLambdasToAnonymousClasses/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/preferLambdasToAnonymousClasses/OperationWithLambdas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/preferMethodReferencesToLambdas/MapMergeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/preferSideEffectFreeFunctionsInStreams/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/preferSideEffectFreeFunctionsInStreams/Artist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/preferSideEffectFreeFunctionsInStreams/ArtistWithBestSellingAlbum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/preferSideEffectFreeFunctionsInStreams/FrequencyTableOfWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/preferSideEffectFreeFunctionsInStreams/FrequencyTableOfWordsProperStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/preferSideEffectFreeFunctionsInStreams/FromStringToEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/preferSideEffectFreeFunctionsInStreams/TopTenFrequencyTableOfWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/useStreams/Anagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/useStreams/AnagramsAppropriateStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/useStreams/AnagramsStreamsOveruse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/useStreams/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/useStreams/FirstTwentyMersennePrimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/useStreams/NewDeckOfCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/useStreams/NewDeckOfCardsStreamBased.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/useStreams/PrimitiveCharStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/useStreams/anagram" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2VpqtE4RRZguVF5Uvm36P7a5jOE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Immigrate/projects/effectiveJava/lambdasAndStreams&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.PrimeCounting">
+    <configuration name="AdapterIterableToSream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.preferCollectionToStreamAsReturnType.AdapterIterableToSream" />
+      <module name="lambdasAndStreams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.preferCollectionToStreamAsReturnType.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.preferCollectionToStreamAsReturnType.PowerSet" />
+      <module name="lambdasAndStreams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.preferCollectionToStreamAsReturnType.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeCounting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.cautionWhenMakingStreamsParallel.PrimeCounting" />
+      <module name="lambdasAndStreams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.cautionWhenMakingStreamsParallel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.preferCollectionToStreamAsReturnType.SubLists" />
+      <module name="lambdasAndStreams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.preferCollectionToStreamAsReturnType.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubListsAnotherImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.preferCollectionToStreamAsReturnType.SubListsAnotherImplementation" />
+      <module name="lambdasAndStreams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.preferCollectionToStreamAsReturnType.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PrimeCounting" />
+        <item itemvalue="Application.SubListsAnotherImplementation" />
+        <item itemvalue="Application.SubLists" />
+        <item itemvalue="Application.PowerSet" />
+        <item itemvalue="Application.AdapterIterableToSream" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6cec193-51eb-4ad1-b0fd-322df31647ba" name="Changes" comment="" />
+      <created>1695543589712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695543589712</updated>
+      <workItem from="1695543595305" duration="2505000" />
+      <workItem from="1695659707141" duration="5228000" />
+      <workItem from="1695887329625" duration="1559000" />
+      <workItem from="1695957961305" duration="4617000" />
+      <workItem from="1696011251930" duration="2847000" />
+      <workItem from="1696044203219" duration="1175000" />
+      <workItem from="1696088108724" duration="1111000" />
+      <workItem from="1696093245771" duration="5770000" />
+      <workItem from="1696215622634" duration="3086000" />
+      <workItem from="1696312871910" duration="30097000" />
+      <workItem from="1696484274088" duration="22235000" />
+      <workItem from="1696566708506" duration="772000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/useStreams/Anagrams.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/useStreams/NewDeckOfCardsStreamBased.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/useStreams/Card.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/useStreams/Card.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/useStreams/Card.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/useStreams/NewDeckOfCardsStreamBased.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/preferSideEffectFreeFunctionsInStreams/FromStringToEnum.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/preferLambdasToAnonymousClasses/Operation.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/preferLambdasToAnonymousClasses/Operation.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/preferLambdasToAnonymousClasses/Operation.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/preferLambdasToAnonymousClasses/Operation.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/preferSideEffectFreeFunctionsInStreams/FromStringToEnum.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/preferSideEffectFreeFunctionsInStreams/FromStringToEnum.java</url>
+          <line>14</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
